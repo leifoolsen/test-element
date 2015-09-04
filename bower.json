@@ -1,6 +1,6 @@
 {
   "name": "test-element",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "authors": [
     "Leif Olsen <leif.o.olsen@gmail.com>"
   ],
@@ -12,6 +12,10 @@
     "seed"
   ],
   "main": "test-element.html",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leifoolsen/test-element"
+  },
   "license": "http://polymer.github.io/LICENSE.txt",
   "homepage": "https://github.com/leifoolsen/test-element/",
   "ignore": [
